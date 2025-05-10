@@ -15,13 +15,13 @@ Theoretically, this repository can serve as an API endpoint since it responds ex
 
 #### Service overview
 
-```http
+```
   GET /services/
 ```
 
 #### Get metadata root for a specific service
 
-```http
+```
   GET /services/${service.id}/
 ```
 
